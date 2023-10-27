@@ -1,0 +1,12 @@
+C:\Users\HanaHalouani\source\repos\BlazorServerExmp\DataAccesslibrairy\bin\Debug\net6.0\DataAccesslibrairy.deps.json
+C:\Users\HanaHalouani\source\repos\BlazorServerExmp\DataAccesslibrairy\bin\Debug\net6.0\DataAccesslibrairy.dll
+C:\Users\HanaHalouani\source\repos\BlazorServerExmp\DataAccesslibrairy\bin\Debug\net6.0\DataAccesslibrairy.pdb
+C:\Users\HanaHalouani\source\repos\BlazorServerExmp\DataAccesslibrairy\obj\Debug\net6.0\DataAccesslibrairy.csproj.AssemblyReference.cache
+C:\Users\HanaHalouani\source\repos\BlazorServerExmp\DataAccesslibrairy\obj\Debug\net6.0\DataAccesslibrairy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HanaHalouani\source\repos\BlazorServerExmp\DataAccesslibrairy\obj\Debug\net6.0\DataAccesslibrairy.AssemblyInfoInputs.cache
+C:\Users\HanaHalouani\source\repos\BlazorServerExmp\DataAccesslibrairy\obj\Debug\net6.0\DataAccesslibrairy.AssemblyInfo.cs
+C:\Users\HanaHalouani\source\repos\BlazorServerExmp\DataAccesslibrairy\obj\Debug\net6.0\DataAccesslibrairy.csproj.CoreCompileInputs.cache
+C:\Users\HanaHalouani\source\repos\BlazorServerExmp\DataAccesslibrairy\obj\Debug\net6.0\DataAccesslibrairy.dll
+C:\Users\HanaHalouani\source\repos\BlazorServerExmp\DataAccesslibrairy\obj\Debug\net6.0\refint\DataAccesslibrairy.dll
+C:\Users\HanaHalouani\source\repos\BlazorServerExmp\DataAccesslibrairy\obj\Debug\net6.0\DataAccesslibrairy.pdb
+C:\Users\HanaHalouani\source\repos\BlazorServerExmp\DataAccesslibrairy\obj\Debug\net6.0\ref\DataAccesslibrairy.dll
