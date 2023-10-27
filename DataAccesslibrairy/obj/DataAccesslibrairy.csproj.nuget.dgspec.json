@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HanaHalouani\\source\\repos\\BlazorServerExmp\\DataAccesslibrairy\\DataAccesslibrairy.csproj": {}
+    "C:\\Users\\HanaHalouani\\source\\BlazorServerExmp\\DataAccesslibrairy\\DataAccesslibrairy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HanaHalouani\\source\\repos\\BlazorServerExmp\\DataAccesslibrairy\\DataAccesslibrairy.csproj": {
+    "C:\\Users\\HanaHalouani\\source\\BlazorServerExmp\\DataAccesslibrairy\\DataAccesslibrairy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HanaHalouani\\source\\repos\\BlazorServerExmp\\DataAccesslibrairy\\DataAccesslibrairy.csproj",
+        "projectUniqueName": "C:\\Users\\HanaHalouani\\source\\BlazorServerExmp\\DataAccesslibrairy\\DataAccesslibrairy.csproj",
         "projectName": "DataAccesslibrairy",
-        "projectPath": "C:\\Users\\HanaHalouani\\source\\repos\\BlazorServerExmp\\DataAccesslibrairy\\DataAccesslibrairy.csproj",
+        "projectPath": "C:\\Users\\HanaHalouani\\source\\BlazorServerExmp\\DataAccesslibrairy\\DataAccesslibrairy.csproj",
         "packagesPath": "C:\\Users\\HanaHalouani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HanaHalouani\\source\\repos\\BlazorServerExmp\\DataAccesslibrairy\\obj\\",
+        "outputPath": "C:\\Users\\HanaHalouani\\source\\BlazorServerExmp\\DataAccesslibrairy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
